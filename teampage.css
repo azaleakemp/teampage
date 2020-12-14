@@ -1,9 +1,8 @@
 .title{
 	position: absolute;
-	width: 102px;
-	height: 16px;
-	left: 504px;
-	top: 330px;
+	width: auto;
+	right: 0;
+	height: auto;
 	font-family: PT Serif;
 	font-size: 12px;
 	line-height: 16px;
@@ -11,7 +10,6 @@
 	transform: rotate(90deg);
 }
 
-img{
-	height: 50%;
-	width: auto;
+figure:nth-child(even) { 
+	padding-top: 30rem !important;
 }

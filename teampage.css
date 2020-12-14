@@ -1,0 +1,17 @@
+.title{
+	position: absolute;
+	width: 102px;
+	height: 16px;
+	left: 504px;
+	top: 330px;
+	font-family: PT Serif;
+	font-size: 12px;
+	line-height: 16px;
+	text-transform: uppercase;
+	transform: rotate(90deg);
+}
+
+img{
+	height: 50%;
+	width: auto;
+}

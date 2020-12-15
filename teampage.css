@@ -1,13 +1,9 @@
 .title{
-	position: absolute;
-	width: auto;
-	right: 0;
-	height: auto;
 	font-family: PT Serif;
 	font-size: 12px;
-	line-height: 16px;
-	text-transform: uppercase;
 	transform: rotate(90deg);
+	margin: 0 auto;
+	vertical-align: top;
 }
 
 figure:nth-child(even) { 

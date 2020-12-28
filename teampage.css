@@ -6,6 +6,11 @@
 	vertical-align: top;
 }
 
-figure:nth-child(even) { 
-	padding-top: 30rem !important;
+.col-img{
+	width: 25% !important;
+}
+
+.col-p{
+	width: 5% !important;
+	padding-right: 50px !important;
 }
